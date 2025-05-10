@@ -88,6 +88,9 @@ export default function Home() {
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
             Instantly deploy your Next.js site to a shareable URL with Vercel.
           </p>
+          <p>
+            <script>window.$zoho=window.$zoho || {};$zoho.salesiq=$zoho.salesiq||{ready:function(){}}</script><script id="zsiqscript" src="https://salesiq.zohopublic.com/widget?wc=siq5fc4cecdb914e4c1feaae4e90e4d10aa" defer></script>
+          </p>
         </a>
       </div>
     </main>
